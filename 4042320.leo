@@ -10,11 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20160110000029.1"><vh>@settings</vh>
+<v t="leo.20160110000029.1" a="E"><vh>@settings</vh>
 <v t="leo.20160110000029.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20160110000029.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20160109235824.2"><vh>@path ./../../</vh>
+<v t="leo.20160109235824.2" a="E"><vh>@path ./../../</vh>
 <v t="leo.20160110010215.1"><vh>@button admin pelican</vh></v>
 <v t="leo.20160110010646.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20160110010646.2"><vh>@edit publishconf.py</vh></v>
